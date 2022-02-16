@@ -1,0 +1,41 @@
+nav {
+  background-color: #61b160;
+  font-family: 'Bebas Neue', cursive; }
+  nav ul {
+    text-align: center; }
+    nav ul li a:hover {
+      background-color: #0ccf67; }
+
+header {
+  background-color: #108447;
+  text-align: center;
+  height: 200px; }
+
+.headerpadre {
+  position: relative; }
+
+.headerimagen img {
+  height: 50px;
+  margin: 60px; }
+
+footer {
+  background-color: #61b160; }
+
+.footer1 {
+  text-align: center;
+  margin-left: 20px; }
+
+.footer2 {
+  text-align: center; }
+
+.icons {
+  text-align: center; }
+
+.lagiladapodre {
+  position: relative; }
+
+.lagiladahijo {
+  height: 30px; }
+
+.lagiladahijo img {
+  height: 30px; }
